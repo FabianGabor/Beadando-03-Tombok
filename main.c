@@ -1,5 +1,5 @@
 /*
- * https://github.com/FabianGabor/Beadando-02-Ciklusszervezo-utasitasok
+ * https://github.com/FabianGabor/Beadando-03-Tombok
  */
 
 #include <stdio.h>
